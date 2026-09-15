@@ -5,7 +5,7 @@ Este git trata deetregas para la materia de Elecronica Digital 1, Profesor  Carl
 class AlexanderRepo():
     
   def __init__(self):
-    self.name = "Alexnder Bohorquez";
+    self.name = "Alexander Bohorquez";
     self.username = "wabohorquezr";
     self.location = "Bogota, Colombia";
 
