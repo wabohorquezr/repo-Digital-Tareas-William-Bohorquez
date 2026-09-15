@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
 ## Proyectos:
 
-### [Bash-para-acceder-a-tu-git-continuamente-con-ssh-Key](https://github.com/wabohorquezr/Bash-para-acceder-a-tu-git-continuamente-con-ssh-Key)
+### [Diagramas de bloques]()
 - Script en Bash que configura automáticamente Git y genera una clave SSH para autenticación segura y permanente con GitHub.
 - Permite evitar ingresar usuario y contraseña en cada operación, asociando tu computador mediante SSH.
 - Technologies Used: Bash, Git, SSH, GitHub
