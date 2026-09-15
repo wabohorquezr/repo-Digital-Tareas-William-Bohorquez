@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
 ## Proyectos:
 
-### [Diagramas de bloques]()
+### [Diagramas de bloques](https://github.com/wabohorquezr/repo-Digital-Tareas-William-Bohorquez/blob/main/Diagra%20de%20Bloques/Diagrama%20de%20Bloques.md)
 - Script en Bash que configura automáticamente Git y genera una clave SSH para autenticación segura y permanente con GitHub.
 - Permite evitar ingresar usuario y contraseña en cada operación, asociando tu computador mediante SSH.
 - Technologies Used: Bash, Git, SSH, GitHub
@@ -30,7 +30,7 @@ if __name__ == '__main__':
 - Contiene ajustes para Rofi, Waybar, terminal y scripts personalizados para productividad.
 - Technologies Used: Hyprland, Arch Linux, Bash, Rofi, Waybar
 
-### [Instalaciones](https://github.com/wabohorquezr/Instalaciones)
+### [Especificaciones]([https://github.com/wabohorquezr/Instalaciones](https://github.com/wabohorquezr/repo-Digital-Tareas-William-Bohorquez/blob/main/Especificaciones%20/Especificaciones.md))
 - Repositorio con proyectos eléctricos y planos técnicos de instalaciones residenciales y comerciales.
 - Incluye documentación relacionada con subestaciones, áreas comunes, apartamentos, locales y sótanos.
 - Technologies Used: AutoCAD, Diseño Eléctrico, Documentación Técnica
