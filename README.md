@@ -25,7 +25,7 @@ if __name__ == '__main__':
 - Permite evitar ingresar usuario y contraseña en cada operación, asociando tu computador mediante SSH.
 - Technologies Used: Bash, Git, SSH, GitHub
 
-### [Mi-Dotfiles](https://github.com/wabohorquezr/Mi-Dotfiles)
+### [Especificaciones]([https://github.com/wabohorquezr/Mi-Dotfiles](https://github.com/wabohorquezr/repo-Digital-Tareas-William-Bohorquez/blob/main/Especificaciones%20/Especificaciones.md))
 - Configuración personal de Arch Linux con Hyprland, incluyendo un escritorio simple y funcional.
 - Contiene ajustes para Rofi, Waybar, terminal y scripts personalizados para productividad.
 - Technologies Used: Hyprland, Arch Linux, Bash, Rofi, Waybar
