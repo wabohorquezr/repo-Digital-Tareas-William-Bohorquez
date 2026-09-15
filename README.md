@@ -1,6 +1,22 @@
 # Repositorio de entregas 
 Este git trata deetregas para la materia de Elecronica Digital 1, Profesor  Carlos Iván Camargo Bareño Grupo (4) 2016498
 
+```python
+class AlexanderRepo():
+    
+  def __init__(self):
+    self.name = "Alexnder Bohorquez";
+    self.username = "wabohorquezr";
+    self.location = "Bogota, Colombia";
+
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+```
+
+
 
 ## Proyectos:
 
