@@ -1,5 +1,5 @@
 # Repositorio de entregas 
-Este git trata deetregas para la materia de Elecronica Digital 1, Profesor  Carlos Iván Camargo Bareño Grupo (4) 2016498
+Este git trata sore las entregas personales para la materia de Electronica Digital 1, Profesor  Carlos Iván Camargo Bareño Grupo (4) 2016498
 
 ```python
 class AlexanderRepo():
