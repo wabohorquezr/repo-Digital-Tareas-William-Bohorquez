@@ -10,14 +10,14 @@ Los diagramas se han dividido en diferentes niveles para facilitar la comprensi�
 
 ## Diagrama  del Inicio del sistema
 
-![Diagrama de bloques general](Diagramas%20de%20Bloques/Consola.drawio.png)
+![Diagrama de bloques general](Consola.drawio.png)
 
 ## Menú  del sistema
 
 El siguiente diagrama representa la estructura de navegación de la consola, incluyendo el acceso a la lista de juegos, configuración, modo multijugador y las opciones de salida del sistema.
 
-![Diagrama del menú de la consola](Diagramas%20de%20Bloques/MenuConsola.drawio.png)
+![Diagrama del menú de la consola](MenuConsola.drawio.png)
 
 ## Menu General
 
-![Diagrama del General la consola](Diagramas%20de%20Bloques/MenuGeneral.png)
+![Diagrama del General la consola](MenuGeneral.png)
