@@ -23,7 +23,7 @@ if __name__ == '__main__':
 ### [Diagramas de bloques](https://github.com/wabohorquezr/repo-Digital-Tareas-William-Bohorquez/blob/main/Diagra%20de%20Bloques/Diagrama%20de%20Bloques.md)
 - Aqui se encuentra la propuesta del diagrama de flujo para la creacion de la viedo consola, se da un enotorno general de funcionamiento y el total del mismo.
 
-### [Especificaciones](https://github.com/wabohorquezr/repo-Digital-Tareas-William-Bohorquez/blob/main/Especificaciones%20/Especificaciones.md))
+### [Especificaciones](https://github.com/wabohorquezr/repo-Digital-Tareas-William-Bohorquez/blob/main/Especificaciones%20/Especificaciones.md)
 - Se dan los procesos especificos del mismo y de las cuestiones de la misma.
 
 
