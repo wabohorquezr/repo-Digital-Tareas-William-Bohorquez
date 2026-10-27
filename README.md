@@ -22,6 +22,8 @@ class AlexanderRepo():
 
 ### [Especificaciones](https://github.com/wabohorquezr/repo-Digital-Tareas-William-Bohorquez/blob/main/Especificaciones%20/Especificaciones.md)
 - Se dan los procesos especificos del mismo y de las cuestiones de la misma.
+### [Modelo](obsidian://open?vault=repo-Digital-Tareas-William-Bohorquez&file=Propuesta_Modelo%2FModelo)
+
 
 
 
