@@ -23,6 +23,7 @@ El siguiente diagrama representa la estructura de navegación de la consola, inc
 ![Diagrama del General la consola](MenuGeneral.drawio.png)
 
 ## Display 
+![Diagrama del General de bajo nivel del display](data.drawio.png)
 
 ### 1. Desglose Paso a Paso por Bloques del Diagrama
 
