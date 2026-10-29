@@ -4,6 +4,7 @@ En este modelo se va a explorar con respecto al modelo construido y se va a abor
 ```stl
 [Video Consola](CopletoSinPantalla.stl)
 ```
+
 ---
 ### Planteo que en función de las pantallas
 Existen pantalla Leds de 64 x 64 pixeles que son comercioales que miden alrededor de 192mm de ancho como de alto en fucion a ellas construimos todo.
