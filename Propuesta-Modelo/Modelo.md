@@ -2,7 +2,7 @@ En este modelo se va a explorar con respecto al modelo construido y se va a abor
 
 
 ```stl
-[Video Consola](VideoConsola.stl)
+[Video Consola](CopletoSinPantalla.stl)
 ```
 ---
 ### Planteo que en función de las pantallas
